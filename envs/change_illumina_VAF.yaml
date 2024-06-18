@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python=3.10
+  - py2bit=0.3.0
